@@ -1,0 +1,4 @@
+nama Oji
+squad Network
+nim 21090120
+batch2
